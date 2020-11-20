@@ -4,5 +4,5 @@ Assingments form the course prgramming1.
 The programming language used is java.  
 All the codes in this repository have been written by Amir Ali Safizadeh.  
 
-Assinments 
+**Assinments 
 - [X] EU4
