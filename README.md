@@ -5,4 +5,5 @@ The programming language used is java.
 All the codes in this repository have been written by Amir Ali Safizadeh.  
 
 **Assignments**
+- [X] EU3
 - [X] EU4
