@@ -3,7 +3,7 @@
         Last updated: 2020-11-22
         Author: Amir Ali Safizadeh.
         Purpose of the code: This class contains the chess-field and all the chess pieces, one can
-        put a chess piece into the field. This class can mark all the possible moves of a chess piece
+        put a chess piece onto the field. This class can mark all the possible moves of a chess piece
         on the chessboard.
  */
 
