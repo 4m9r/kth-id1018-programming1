@@ -6,5 +6,6 @@ All the codes in this repository have been written by Amir Ali Safizadeh.
 
 **Assignments**
 - [X] OU1
+- [X] OU2
 - [X] EU3
 - [X] EU4
